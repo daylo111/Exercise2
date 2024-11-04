@@ -1,1 +1,1 @@
-# Exercise2
+This project consists of unit testing and REST API's. The user java file under the model package contains the objects for our users. The UserService file adds the users. The UserController file contains the paths for getting the users by their ID's. The UserControllertTest file is to make sure that the information inserted was correct and that the code runs properly.
